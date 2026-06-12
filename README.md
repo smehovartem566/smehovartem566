@@ -5,13 +5,29 @@
 
 ## Мои проекты
 
-### [Music Catalog](https://github.comsmehovartem566/music-catalog)
+### [Music Catalog](https://github.com/smehovartem566/music-catalog)
 
 **Полноценное Fullstack-приложение** с хранением файлов, поиском и пагинацией.
 
 - **Фронтенд:** React (хуки, компоненты), Next.js App Router, TypeScript, Tailwind CSS  
 - **Бэкенд:** Next.js API Routes (REST), валидация, JSON storage с сохранением  
 - **Фичи:** загрузка изображений и аудио (Drag & Drop), debounce-поиск, пагинация, кастомные анимации
+
+🔗 [Демо (только чтение)](https://music-catalog-sepia.vercel.app/)  
+> ⚠️ Полный CRUD и загрузка файлов работают локально. Демо на Vercel — режим чтения.
+
+---
+
+### [MAX Studio](https://github.com/smehovartem566/max-studio)
+
+**Лендинг студии звукозаписи** с уникальным дизайном и анимациями.
+
+- **Дизайн:** полностью кастомный, не шаблон  
+- **Фичи:** плавные анимации при скролле, декоративные волны, анимированные фоновые круги  
+- **Технологии:** HTML5, CSS3, Bootstrap 5, JavaScript  
+- **Особенности:** собственный аудиоплеер с плейлистом, карусель отзывов, модальное окно с формой, адаптив под все устройства
+
+🔗 [Демо](https://smehovartem566.github.io/max-studio/)
 
 ---
 
