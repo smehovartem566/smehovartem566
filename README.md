@@ -44,6 +44,19 @@
 
 ---
 
+### [GNOME Purple Neon Theme](https://github.com/smehovartem566/gnome-purple-neon)
+
+**Тёмная тема для GNOME Shell** с фиолетовыми неоновыми акцентами.
+
+- **Дизайн:** скруглённая панель, градиенты, мягкое свечение
+- **Основа:** стандартная тема Yaru (Ubuntu 24.04)
+- **Фичи:** кастомный даш, календарь, уведомления, переключатель рабочих столов
+- **Технологии:** CSS, GNOME Shell, User Themes
+
+🎨 [Скриншоты и инструкция](https://github.com/smehovartem566/gnome-purple-neon)
+
+---
+
 ## 📫 Контакты
 
 - GitHub: [smehovartem566](https://github.com/smehovartem566)
